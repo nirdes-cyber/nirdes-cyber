@@ -13,7 +13,7 @@
 - 🌱 Learning **React, Node.js, MongoDB & Cybersecurity**  
 - 💡 Building **real-world systems like Telemedicine & Sahara Nepal**  
 - 🎯 Goal: Become a **Cybersecurity Expert**  
-- 📫 Reach me at: **your-email@example.com**
+- 📫 Reach me at: **nirdeshtiwari42@gmail.com**
 
 ---
 
@@ -50,17 +50,6 @@
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git"/> 
 <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code"/> 
 </p>
-
----
-
-## 📊 GitHub Stats  
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=nirdes-cyber&show_icons=true&theme=tokyonight" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nirdes-cyber&theme=tokyonight" />
-</p>
-
----
 
 ## 🚀 Projects  
 
